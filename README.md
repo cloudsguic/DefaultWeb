@@ -1,2 +1,2 @@
-# FirstSuperRepo
-This is my first amazing repo
+# DefaultWeb
+This is my default web repo
